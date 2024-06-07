@@ -1,3 +1,5 @@
+![Sonic Aid Logo](https://github.com/Classacre/SONIC-AID/assets/40638863/5c8653ab-2203-4ba1-9122-d15d4bd053b1)
+
 <a target="_blank" href="https://colab.research.google.com/github/Classacre/SONIC-AID/blob/main/4_0_SonicAid.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
