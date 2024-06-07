@@ -4,7 +4,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# SonicAid v4.0
+# SonicAid
 
 SonicAid is an advanced educational tool designed to assist in the transcription and processing of lecture content from various formats, including audio, video, and PDF files. With the capability to handle multiple languages, SonicAid aims to enhance the learning experience by providing accessible educational materials.
 
